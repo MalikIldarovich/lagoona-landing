@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the source code for the lionic-landing landing page. The landing page is a single-page website created using HTML, CSS, and JavaScript. The project is designed to showcase a product/service/event (please specify).
+This repository contains the source code for the lagoona-landing landing page. The landing page is a single-page website created using HTML, CSS, and JavaScript. The project is designed to showcase a product/service/event (please specify).
 
 ## Project Structure
 
